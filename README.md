@@ -8,14 +8,13 @@ Templates for a variety of popular setups, including:
 
 - Vanilla JavaScript with Three.js
 - TypeScript with Three.js
-- React Three Fiber (R3F)
-- A-Frame
+- React Three Fiber (R3F) (Coming soon!)
 
 Each template includes a basic setup with a scene, camera, and lights, as well as OrbitControls. You can use these templates as a starting point for your own projects, or as a reference for learning how to use Three.js with different libraries and frameworks.
 
 ## Getting Started
 
-To get started with any of these templates, simply clone this repository and navigate to the directory of the template you want to use. From there, you can install any necessary dependencies (using `npm` or `yarn`) and start the development server (using `npm run start` or `yarn start`).
+To get started with any of these templates, simply clone this repository and navigate to the directory of the template you want to use. From there, you can install any necessary dependencies (using `npm` or `yarn`) and start the development server (using `npm run dev` or `yarn dev`).
 
 ## Contributing
 
